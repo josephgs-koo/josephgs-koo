@@ -1,3 +1,5 @@
+<div align="center" />
+  
 ### 🐱 About Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:josephgs.koo@gmail.com)](mailto:josephgs.koo@gmail.com) [![Static Badge](https://img.shields.io/badge/Notion-%23000000?logo=notion&logoColor=white)](https://peppered-mammal-55a.notion.site/e1dac4c446264e44a21889dc9ab5455f)
 
