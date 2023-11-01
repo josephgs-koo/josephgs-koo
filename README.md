@@ -1,9 +1,9 @@
 <div align="center" />
   
-### 🐱 About Me
+## 🐱 About Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:josephgs.koo@gmail.com)](mailto:josephgs.koo@gmail.com) [![Static Badge](https://img.shields.io/badge/Notion-%23000000?logo=notion&logoColor=white)](https://peppered-mammal-55a.notion.site/e1dac4c446264e44a21889dc9ab5455f)
 
-### ⚙️ Skills
+## ⚙️ Skills
 | **Language** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white" alt="html5" /> <img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white" alt="css" /> <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="python" />  |
 | :---: | :--- |
 | **Frameworks & Library** | ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white) <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /> <img src="https://img.shields.io/badge/Recoil-764ABC?logo=recoil&logoColor=white" alt="Recoil"> <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=react-query&logoColor=white" alt="React Query"> ![Static Badge](https://img.shields.io/badge/React--Router-%23CA4245?logo=reactrouter&logoColor=white) <img src="https://img.shields.io/badge/React%20Hook%20Form-EB4034?logo=react-hook-form&logoColor=white" alt="React Hook Form"> <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> |
