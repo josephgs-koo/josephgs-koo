@@ -1,5 +1,5 @@
 ### 🐱 About Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:josephgs.koo@gmail.com)](josephgs.koo@gmail.com) [![Static Badge](https://img.shields.io/badge/Notion-%23000000?logo=notion&logoColor=white)](https://peppered-mammal-55a.notion.site/e1dac4c446264e44a21889dc9ab5455f)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:josephgs.koo@gmail.com)](mailto:josephgs.koo@gmail.com) [![Static Badge](https://img.shields.io/badge/Notion-%23000000?logo=notion&logoColor=white)](https://peppered-mammal-55a.notion.site/e1dac4c446264e44a21889dc9ab5455f)
 
 ### ⚙️ Skills
 | **Language** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white" alt="html5" /> <img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white" alt="css" /> <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="python" />  |
